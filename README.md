@@ -1,4 +1,4 @@
-# Welcome to the Recipe Tweaks wiki!
+# Recipe Tweaks!
 
 ## Features 
 * Craftable saddles and horse armour 
