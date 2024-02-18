@@ -1,0 +1,19 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:crafting_table"
+    },
+    "title": "Recipe Tweaks",
+    "description": "Author: Parilia",
+    "background": "minecraft:textures/block/bamboo_mosaic.png",
+    "frame": "challenge",
+    "show_toast": false,
+    "announce_to_chat": false
+  },
+  "criteria": {
+    "\"tick\": {\"trigger\": \"minecraft:tick\" }": {
+      "trigger": "minecraft:tick"
+    }
+  },
+  "sends_telemetry_event": false
+}

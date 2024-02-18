@@ -1,0 +1,19 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:leather"
+    },
+    "title": "Cook Rotten Flesh into Leather",
+    "description": " ",
+    "frame": "task",
+    "show_toast": false,
+    "announce_to_chat": false
+  },
+  "parent": "recipetweaks:root",
+  "criteria": {
+    "\"tick\": {\"trigger\": \"minecraft:tick\" }": {
+      "trigger": "minecraft:tick"
+    }
+  },
+  "sends_telemetry_event": false
+}

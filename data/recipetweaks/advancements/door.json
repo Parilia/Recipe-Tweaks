@@ -1,0 +1,19 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:spruce_door"
+    },
+    "title": "Craft more doors",
+    "description": "Get 6 instead of 3 and 4 trapdoors instead of 2",
+    "frame": "task",
+    "show_toast": false,
+    "announce_to_chat": false
+  },
+  "parent": "recipetweaks:root",
+  "criteria": {
+    "\"tick\": {\"trigger\": \"minecraft:tick\" }": {
+      "trigger": "minecraft:tick"
+    }
+  },
+  "sends_telemetry_event": false
+}

@@ -1,0 +1,19 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:raw_iron_block"
+    },
+    "title": "Smelt Raw Blocks",
+    "description": " ",
+    "frame": "task",
+    "show_toast": false,
+    "announce_to_chat": false
+  },
+  "parent": "recipetweaks:root",
+  "criteria": {
+    "\"tick\": {\"trigger\": \"minecraft:tick\" }": {
+      "trigger": "minecraft:tick"
+    }
+  },
+  "sends_telemetry_event": false
+}

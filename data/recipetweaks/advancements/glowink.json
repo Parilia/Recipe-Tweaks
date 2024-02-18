@@ -1,0 +1,19 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:glow_ink_sac"
+    },
+    "title": "Craftable Glow Ink ",
+    "description": " ",
+    "frame": "task",
+    "show_toast": false,
+    "announce_to_chat": false
+  },
+  "parent": "recipetweaks:root",
+  "criteria": {
+    "\"tick\": {\"trigger\": \"minecraft:tick\" }": {
+      "trigger": "minecraft:tick"
+    }
+  },
+  "sends_telemetry_event": false
+}
