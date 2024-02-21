@@ -10,5 +10,5 @@ jobs:
         run: |
           cd ../ 
           rm -rf RecipeTweaks.zip
-          zip -r RecipeTweaks.zip data/ pack.mcmeta 
+          zip -r RecipeTweaks.zip . -i data/ pack.mcmeta
 
