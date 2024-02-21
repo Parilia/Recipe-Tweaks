@@ -4,9 +4,9 @@
 * Craftable saddles and horse armour 
 * More stairs recipes
 * Stone cutter recipes that make sense
-* More doors - Iron doors inline with copper recipe
+* More doors - Iron doors in-line with copper recipe
 * Craftable crying obsidian
-* Craftable grass, podzoll, crimson and warped blocks
+* Craftable grass, podzol, crimson and warped blocks
 * Cook raw blocks
 * Craft sticks, chests, ladders and bowls directly from logs 
 * Cook rotten flesh into leather
