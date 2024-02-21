@@ -10,5 +10,5 @@ jobs:
         run: |
           cd ../ 
           rm -rf RecipeTweaks.zip
-          git archive -o RecipeTweaks.zip HEAD 
+          zip -r RecipeTweaks.zip data/ pack.mcmeta 
 
