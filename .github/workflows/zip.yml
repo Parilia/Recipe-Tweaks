@@ -9,6 +9,6 @@ jobs:
       - name: Zip Folder
         run: |
           cd ../ 
-          rm -rf <repository_name>.zip
-          zip -r <repository_name>.zip <repository_name> -x ".git/*" ".github/*"
+          rm -rf RecipeTweaks.zip
+          git archive -o RecipeTweaks.zip HEAD 
 
