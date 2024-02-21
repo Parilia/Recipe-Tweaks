@@ -1,14 +1,13 @@
-name: Zip repository
-on: [workflow_dispatch]
-
-jobs:
-  zip:
-    name: Zip
-    runs-on: ubuntu-latest
-    steps:
-      - name: Zip Folder
-        run: |
-          cd ../ 
-          rm -rf RecipeTweaks.zip
-          zip -r RecipeTweaks.zip . -i data/ pack.mcmeta
-
+            - name: Easy Zip Files
+  # You may pin to the exact commit or the version.
+  # uses: vimtor/action-zip@1379ea20d4c5705669ba81fd626dd01b1c738f26
+  uses: vimtor/action-zip@v1.2
+  with:
+    # Files or directories to zip
+    files: data/ pack.mcmeta
+    # Name of output zip file
+    dest: Recipe-Tweaks.zip
+    # optional, default is result.zip
+    # Whether to add subdirectories to simply zip all files to the root
+    recursive: # optional, default is true
+          
