@@ -3,9 +3,12 @@ on: [workflow_dispatch]
 
 jobs:
   zip:
-    name: zip
+    name: Zip
     runs-on: ubuntu-latest
     steps:
       - name: Zip Folder
-        run: git archive -o RecipeTweaks.zip HEAD
+        run: |
+          cd ../ 
+          rm -rf <repository_name>.zip
+          zip -r <repository_name>.zip <repository_name> -x ".git/*" ".github/*"
 
