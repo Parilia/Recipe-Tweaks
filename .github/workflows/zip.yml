@@ -1,0 +1,11 @@
+name: Zip repository
+on: [workflow_dispatch]
+
+jobs:
+  zip:
+    name: zip
+    runs-on: ubuntu-latest
+    steps:
+      - name: Zip Folder
+        run: git archive -o RecipeTweaks.zip HEAD
+
