@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "PGP",
+    "CSC",
+    "PLP"
+  ],
+  "key": {
+    "P": {
+      "item": "minecraft:pufferfish"
+    },
+    "G": {
+      "item": "minecraft:golden_pickaxe"
+    },
+    "C": {
+      "item": "minecraft:golden_carrot"
+    },
+    "S": {
+      "item": "minecraft:nether_star"
+    },
+    "L": {
+      "item": "minecraft:sea_lantern"
+    }
+  },
+  "result": {
+    "item": "minecraft:heart_of_the_sea",
+    "count": 1
+  }
+}
+
