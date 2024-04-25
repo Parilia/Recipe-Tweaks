@@ -14,7 +14,7 @@
     }
   },
   "result": {
-    "item": "minecraft:podzol",
+    "id": "minecraft:podzol",
     "count": 3
   }
 }
