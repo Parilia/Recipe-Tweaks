@@ -3,6 +3,7 @@
   "ingredient": {
     "item": "minecraft:polished_tuff_slab"
   },
-  "result": "minecraft:polished_tuff_wall",
+  "result": { "id": "minecraft:polished_tuff_wall",
   "count": 1
+}
 }

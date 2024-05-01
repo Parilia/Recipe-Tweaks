@@ -4,5 +4,6 @@
   "ingredient": {
     "item": "minecraft:red_sandstone"
   },
-  "result": "minecraft:red_sandstone_wall"
+  "result": { "id": "minecraft:red_sandstone_wall"
+}
 }

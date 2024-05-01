@@ -3,6 +3,7 @@
   "ingredient": {
     "item": "minecraft:end_stone_brick_slab"
   },
-  "result": "minecraft:end_stone_brick_wall",
+  "result": { "id": "minecraft:end_stone_brick_wall",
   "count": 1
+}
 }

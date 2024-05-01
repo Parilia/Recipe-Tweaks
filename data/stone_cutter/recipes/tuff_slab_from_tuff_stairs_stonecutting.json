@@ -3,6 +3,7 @@
   "ingredient": {
     "item": "minecraft:tuff_stairs"
   },
-  "result": "minecraft:tuff_slab",
+  "result": { "id": "minecraft:tuff_slab",
   "count": 1
+}
 }

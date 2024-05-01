@@ -4,5 +4,6 @@
   "ingredient": {
     "item": "minecraft:cobbled_deepslate"
   },
-  "result": "minecraft:deepslate_tile_wall"
+  "result": { "id": "minecraft:deepslate_tile_wall"
+}
 }

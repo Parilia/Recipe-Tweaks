@@ -3,6 +3,7 @@
   "ingredient": {
     "item": "minecraft:diorite_stairs"
   },
-  "result": "minecraft:diorite_slab",
+  "result": { "id": "minecraft:diorite_slab",
   "count": 1
+}
 }

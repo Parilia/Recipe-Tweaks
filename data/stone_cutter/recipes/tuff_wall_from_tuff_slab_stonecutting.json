@@ -3,6 +3,7 @@
   "ingredient": {
     "item": "minecraft:tuff_slab"
   },
-  "result": "minecraft:tuff_wall",
+  "result": { "id": "minecraft:tuff_wall",
   "count": 1
+}
 }
