@@ -2,7 +2,7 @@
   "type": "minecraft:crafting_shapeless",
   "ingredients": [
     {
-      "item": "minecraft:ghast_tear"
+      "item": "minecraft:ender_eye"
     },
     {
       "item": "minecraft:obsidian"
