@@ -3,7 +3,7 @@
   "ingredient": {
     "item": "minecraft:spruce_planks"
   },
-  "result": "minecraft:spruce_slab",
+  "result": { "id": "minecraft:spruce_slab",
   "count": 2
 }
 
