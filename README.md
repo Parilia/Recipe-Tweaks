@@ -1,5 +1,7 @@
 # Recipe Tweaks!
 
+## Future updates will be made here: https://git.parilia.dev/Parilia/Recipe-Tweaks
+
 ## This repo will always be for the current version of Minecraft, for specific versions please check the releases.
 
 ## Features 
